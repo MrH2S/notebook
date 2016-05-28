@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+<i class="icon-file"></i> Create a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-file"><\/i> Create a document$/;"	function	line:21
+<i class="icon-folder-open"></i> Switch to another document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-folder-open"><\/i> Switch to another document$/;"	function	line:25
+<i class="icon-pencil"></i> Rename a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-pencil"><\/i> Rename a document$/;"	function	line:29
+<i class="icon-trash"></i> Delete a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-trash"><\/i> Delete a document$/;"	function	line:33
+<i class="icon-hdd"></i> Export a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-hdd"><\/i> Export a document$/;"	function	line:37
+<i class="icon-refresh"></i> Open a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-refresh"><\/i> Open a document$/;"	function	line:58
+<i class="icon-refresh"></i> Save a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-refresh"><\/i> Save a document$/;"	function	line:62
+<i class="icon-refresh"></i> Synchronize a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-refresh"><\/i> Synchronize a document$/;"	function	line:66
+<i class="icon-refresh"></i> Manage document synchronization	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-refresh"><\/i> Manage document synchronization$/;"	function	line:74
+<i class="icon-upload"></i> Publish a document	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-upload"><\/i> Publish a document$/;"	function	line:88
+<i class="icon-upload"></i> Update a publication	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-upload"><\/i> Update a publication$/;"	function	line:98
+<i class="icon-upload"></i> Manage document publication	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^#### <i class="icon-upload"><\/i> Manage document publication$/;"	function	line:104
+Tables	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### Tables$/;"	function	line:123
+Definition Lists	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### Definition Lists$/;"	function	line:142
+Fenced code blocks	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### Fenced code blocks$/;"	function	line:160
+Footnotes	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### Footnotes$/;"	function	line:177
+SmartyPants	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### SmartyPants$/;"	function	line:184
+Table of contents	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### Table of contents$/;"	function	line:195
+MathJax	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### MathJax$/;"	function	line:202
+UML diagrams	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### UML diagrams$/;"	function	line:221
+Support StackEdit	/home/tcath2s/Documents/notebook/syntax/syntax.md	/^### Support StackEdit$/;"	function	line:249
+notebook	/home/tcath2s/Documents/notebook/README.md	/^# notebook$/;"	function	line:1
