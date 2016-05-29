@@ -95,3 +95,15 @@ x &&& y
   | x > y       = y
   | otherwise   = x
 ```
+
+### generic function
+#### ploymorphism
+```haskell
+lenghth :: [a] -> Int
+```
+means a generic function meet any list input and Int output
+```haskell
+fst :: (a,b) -> a
+```
+means a generic funtion meet double tuple composed by diff Type iuput and first Type of tuple is the output Type
+#### reload
