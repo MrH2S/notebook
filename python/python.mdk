@@ -1,18 +1,14 @@
-Title         : Welcome
-Author        : You
+Title         : Python Notebook
+Author        : TcAth2s
 Logo          : True
 
 [TITLE]
 
-# Madoko 
+# Python 
 
-Madoko is a fast markdown processor for writing professional articles
-with a focus on simplicity and plain text readability.
+Python is a new popular language for coding specially in data analysising.
 
-* Read the [reference manual].
-* Explore the upper-right toolbox menu to discover how Markdown works. 
-* `Alt-Q` reformats the current paragraph.
+* this notebook is the mark in my own learn of python.
 
 Enjoy!
 
-[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
